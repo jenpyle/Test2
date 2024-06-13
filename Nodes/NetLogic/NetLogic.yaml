@@ -1,0 +1,16 @@
+Name: NetLogic
+Type: NetLogicCategoryFolder
+Children:
+- Name: RunTime
+  Type: NetLogic
+- Name: DesignTime
+  Type: NetLogic
+  Children:
+  - Name: BehaviourStartPriority
+    Type: BehaviourStartPriorityVariableType
+    DataType: Byte
+    Value: 180
+  - Class: Method
+    Name: CleanAndRun
+  - Class: Method
+    Name: CleanOnly

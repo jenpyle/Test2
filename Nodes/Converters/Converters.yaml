@@ -1,0 +1,4 @@
+Name: Converters
+Type: ConvertersCategoryFolder
+Children:
+- File: Templates/Templates.yaml
