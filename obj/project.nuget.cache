@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dak7s6f8QHJqhdCD6b6UTWVsQi7aIm+J5hZub5ANbWBhikTzHTk2pGn2xwqZRjADl1sUSnZvG2+4pxSv+0xwpA==",
+  "success": true,
+  "projectFilePath": "D:\\soure\\repos\\Mikron_MOAB_HMI\\ProjectFiles\\NetSolution\\Mikron_MOAB_HMI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\21091715\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\21091715\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\21091715\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

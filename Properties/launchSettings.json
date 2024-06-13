@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mikron_MOAB_HMI": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

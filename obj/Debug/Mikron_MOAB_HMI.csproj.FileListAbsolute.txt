@@ -1,0 +1,13 @@
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\bin\Mikron_MOAB_HMI.deps.json
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\bin\Mikron_MOAB_HMI.dll
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\bin\Mikron_MOAB_HMI.pdb
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.csproj.AssemblyReference.cache
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.GeneratedMSBuildEditorConfig.editorconfig
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.AssemblyInfoInputs.cache
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.AssemblyInfo.cs
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.csproj.CoreCompileInputs.cache
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.sourcelink.json
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.dll
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\refint\Mikron_MOAB_HMI.dll
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\Mikron_MOAB_HMI.pdb
+D:\soure\repos\Mikron_MOAB_HMI\ProjectFiles\NetSolution\obj\Debug\ref\Mikron_MOAB_HMI.dll

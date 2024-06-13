@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mikron_MOAB_HMI/1.0.0": {
+        "runtime": {
+          "Mikron_MOAB_HMI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mikron_MOAB_HMI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
